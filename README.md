@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ashley Roberts 👋</h1>
 
 <p align="center">
-Software Developer • Web Application Development Student • Building with Python, Django & PostgreSQL
+Junior Software Developer • Web Application Development Student 
 </p>
 
 ---
@@ -49,7 +49,9 @@ A community-driven **music discussion platform** where users can:
 
 ---
 
-**Current focus:** designing and building a full-stack application using **Django, PostgreSQL, and music-related APIs**.
+**Current focus:** 
+
+Designing and building a full-stack application using **Django, PostgreSQL, and music-related APIs**.
 
 ---
 
@@ -59,6 +61,9 @@ A community-driven **music discussion platform** where users can:
 - **API integrations**
 - **Database design and optimisation**
 - **Scalable web application development**
+- **Python**
+- **PostgreSQL**
+- 
 
 ---
 
