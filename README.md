@@ -45,7 +45,9 @@ A community-driven **music discussion platform** where users can:
 - Discover albums and artists  
 - Create posts and discussions around music  
 - React, comment, and engage with the community  
-- Explore music genres and trending discussions  
+- Explore music genres and trending discussions
+
+---
 
 **Current focus:** designing and building a full-stack application using **Django, PostgreSQL, and music-related APIs**.
 
